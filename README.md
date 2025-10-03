@@ -7,7 +7,7 @@
 
 # Projects
 ## 1. NYC Taxi Data Analysis (Azure data lake + Azure synapse + ADF + SQL + PowerBI Visualization)
-[[https://github.com/Ash1708/NYC-Taxi-Analytics-Azure-PowerBI.](https://github.com/Ash1708/NYC-Taxi-Analytics-Azure-PowerBI./edit/main/README.md)](https://github.com/Ash1708/NYC-Taxi-Analytics-Azure-PowerBI./blob/main/README.md)
+https://github.com/Ash1708/NYC-Taxi-Analytics-Azure-PowerBI./blob/main/README.md
 
 This project demonstrates a real-world data pipeline and business intelligence solution using
 * Dataset: NYC Taxi Trip Records 2023 (public open data).
